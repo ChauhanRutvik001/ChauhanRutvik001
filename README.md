@@ -20,8 +20,19 @@
 
 ## 🎯 **Tech Stack & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,java,html,css,tailwind,bootstrap,git,github,vscode,docker,linux" />
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap" />
+
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" />
+
+  <h3>Database</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+  <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
+
 
 ---
 
