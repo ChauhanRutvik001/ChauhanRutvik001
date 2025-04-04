@@ -1,5 +1,5 @@
 # 💻 **Hi there, I'm Rutvik Chauhan** 👋
-
+![Profile Views](https://komarev.com/ghpvc/?username=ChauhanRutvik001&color=blue&style=flat)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7B500&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+Problem+Solver;MERN+Stack+%7C+Competitive+Programmer;Open-Source+Enthusiast+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
